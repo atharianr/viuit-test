@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv_date"
+        style="@style/TextTitleStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/date" />
+
+    <TextView
+        android:id="@+id/tv_label"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_nb_visits"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_nb_hits"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_sum_time_spent"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_nb_hits_with_time_generation"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_min_time_generation"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_max_time_generation"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_sum_bandwidth"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_nb_hits_with_bandwidth"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_sum_daily_nb_uniq_visitors"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_entry_nb_visits"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_entry_nb_actions"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_entry_sum_visit_length"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_entry_bounce_count"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_exit_nb_visits"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_sum_daily_entry_nb_uniq_visitors"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_sum_daily_exit_nb_uniq_visitors"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_avg_bandwidth"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_avg_time_on_page"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_bounce_rate"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_exit_rate"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+
+    <TextView
+        android:id="@+id/tv_avg_time_generation"
+        style="@style/TextContentStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">viuit</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="date">Date</string>
+    <string name="labels">Labels</string>
+    <string name="visit">Visit</string>
+    <string name="status">Status</string>
+    <string name="error">Maaf, terjadi kesalahan...</string>
+    <string name="detail">Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy">dummy</string>
+</resources>
